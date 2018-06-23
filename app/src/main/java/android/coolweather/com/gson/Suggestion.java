@@ -1,5 +1,7 @@
 package android.coolweather.com.gson;
 
+import com.google.gson.annotations.SerializedName;
+
 /**
  * Created by hbhdw on 2018/6/21.
  */
